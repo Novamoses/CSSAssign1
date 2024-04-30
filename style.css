@@ -1,0 +1,115 @@
+center {
+    text-align: center;
+}
+
+.box{
+    border: 1px solid lightgray;
+    width: 500px;
+    margin: 100px auto;
+    padding: 100px 50px;
+    border-radius: 10px;
+    background-color: rgb(67, 220, 151);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.btn {
+    background-color: white;
+    border: none;
+    padding: 14px 50px;
+    border-radius: 100px;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.profiles {
+    width:400px;
+    border: 1px solid lightgray;
+    margin: 50px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+}
+
+.profile-content {
+    padding: 10px 20px;
+}
+
+.profile-para {
+    color: gray;
+}
+
+.border-line {
+    border-top: 1px solid lightgray;
+}
+
+.profile-footer{
+    padding: 0px 20px;
+}
+
+.footer-text {
+    color:blue
+}
+
+.profile-img{
+    padding: 30px 20px;
+    height: 50px;
+}
+
+.g-content {
+    padding: 20px 10px;
+    
+}
+
+.g-image {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.g-content p {
+    color: gray;
+}
+
+.g-btn {
+    background-color: white;
+    color: blue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.flodesk {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 40px auto;
+    width: 400px;
+}
+
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 14px;
+}
+
+.login-btn {
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    margin: 20px;
+}
+
+.flodesk-footer{
+    color: gray;
+}
+
+.flodesk-accept{
+    color:grey;
+    margin-top: 40px;
+}
